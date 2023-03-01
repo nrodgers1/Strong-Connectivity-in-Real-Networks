@@ -10,7 +10,7 @@ The code is written in Julia and has a range of julia dependancies such as Graph
 
 Trophic Analysis only invovles solving a matrix equation and a simple calculation to get the incoherence so should be accesible to researchers in many fields who are not familair with julia or this particular code which contains a lot of extra data, analysis and results from other papers.
 
-I am happy to discuss with other researchers how to implent Trophic Analysis for yourself or questions about the subject.
+I am happy to discuss with other researchers how to implent Trophic Analysis for yourself or questions about the subject. A more Trophic Analysis code is avaliable in other repositories on my Github.
 
 My papers are https://scholar.google.com/citations?user=646U--wAAAAJ&hl=en
 
