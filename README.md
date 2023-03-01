@@ -1,4 +1,4 @@
-# Strong-Connecvity-in-Real-Networks
+# Strong-Connectivity-in-Real-Networks
 
 
 
