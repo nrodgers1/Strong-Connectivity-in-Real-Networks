@@ -8,7 +8,7 @@ The code generates networks of varying Trophic Incoherence, measures network str
 
 The code is written in Julia and has a range of Julia dependancies such as Graphs.jl and other common Julia packages. The code relies on the paths to the data that I have setup and this will need to be modified to run on your machine. It is is also setup to take account of the different data formats which come from different sources and is hard coded to this, so may requre a little editing to change to another file system. The code is also in the form of a jupyter notebook so this is required to run the code. The code also contains extra functionality not required for the paper which may display errors. 
 
-The code can be modified to take in the data used in the paper and reproduce the results of it. 
+The code can be modified to take in the data used in the paper and reproduce the results of it. For each on the results on an indivdual real network the code would need to be edited to take in the source data for that particular network.
 
 The code named " Strong Connectivity Github Julia Networks_Real_Networks-Extra Data" provides the bulk of the structural paper results. While the backwards attack code can remove backwards edges and the rest create time series of the dynamics for which they are named. 
 
